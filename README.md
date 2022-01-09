@@ -100,6 +100,12 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 ![image](https://user-images.githubusercontent.com/93734334/148693643-3197e17f-7c40-4c4c-9bf4-e40d25dcb500.png)
 
+* Como se observa, en los valores tanto de la tabla 5.1, como los de la tabla 5.2, los valores calculados y los valores medidos en el simulador no difieren, a excepcion los valores de la tabla 5.2 en el circuito equivalente de Thévenin, donde haciendo el calculo del error se tiene que 
+
+(3.90-3.89/3.90) x 100
+
+El error es de un 0.0025%
+
 5. VIDEO
 
 6. CONCLUSIONES
