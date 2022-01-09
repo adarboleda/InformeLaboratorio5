@@ -66,7 +66,9 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/148692499-28200d07-68ba-4a3c-98eb-b867032c4324.png)
 
+* Encontrando el voltaje y la resitencia de R5
 
+![image](https://user-images.githubusercontent.com/93734334/148692766-4d36c2f0-ede5-4d1e-9ac5-33f6821a33a9.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
