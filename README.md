@@ -32,6 +32,14 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/148688033-a5e2a9d1-665c-47e2-b9fd-5c09bfb068a2.png)
 
+* Para encontrar el volatje de Thévenin lo primero que se va a hacer es eliminar R5
+
+![image](https://user-images.githubusercontent.com/93734334/148689038-cdd1bf39-3d70-4e31-8363-44b530067c0f.png)
+
+* Se va a usar las ecuciones del analiss de mallas encontradas anterioirmente, solo va a cmabiar la ecuacion 3 puesto que ya no hay R5
+
+
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5.5.1. Arme el circuito que se muestra en la figura 5.1.
