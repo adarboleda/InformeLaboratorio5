@@ -56,6 +56,11 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/148691894-24773115-d651-42a4-9d6e-be59fb1ee924.png)
 
+![image](https://user-images.githubusercontent.com/93734334/148692210-12e83d46-8e64-4d5f-b555-7ee990c09f87.png)
+
+* Enonces se tiene que el voltaje y la resistencia de Thévenin son:
+
+![image](https://user-images.githubusercontent.com/93734334/148692257-edebce63-52d3-4c09-bc07-7dedcf4c364d.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
