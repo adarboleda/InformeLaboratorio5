@@ -62,6 +62,12 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/148692257-edebce63-52d3-4c09-bc07-7dedcf4c364d.png)
 
+* El circuito equivalente.
+
+![image](https://user-images.githubusercontent.com/93734334/148692499-28200d07-68ba-4a3c-98eb-b867032c4324.png)
+
+
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5.5.1. Arme el circuito que se muestra en la figura 5.1.
