@@ -36,8 +36,25 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/148689038-cdd1bf39-3d70-4e31-8363-44b530067c0f.png)
 
-* Se va a usar las ecuciones del analiss de mallas encontradas anterioirmente, solo va a cmabiar la ecuacion 3 puesto que ya no hay R5
+* Se va a usar las ecuciones del analiss de mallas, tomando en cuando que solo va a existir dos mallas ya que en R5 caen 0V porque no hay corriente, entonces esta resistencia no va a afectar los calculos
 
+![image](https://user-images.githubusercontent.com/93734334/148690111-dd358e87-af13-4a88-bbd5-045f6ff44c02.png)
+
+* Usando una claculadora que nos ayude a resolver sistemas de ecuaciones.
+
+![image](https://user-images.githubusercontent.com/93734334/148690141-1f3c0e4f-844f-409e-94c2-2289561c9066.png)
+
+![image](https://user-images.githubusercontent.com/93734334/148690152-d562e4d5-2ec5-4bb0-9f39-cf9e8fbb5688.png)
+
+* Por lo tanto se tiene que
+
+![image](https://user-images.githubusercontent.com/93734334/148691027-92f4ff32-57cf-4343-9735-968a790f9edd.png)
+
+![image](https://user-images.githubusercontent.com/93734334/148691563-b21cdd03-b948-446d-b46d-041062aaced1.png)
+
+* Para encontrar la resistencia de Thévenin, lo primero que se va a hacer es reemplazar las fuentes de voltajes por sus resistencias internas para posteriormente encontrar las resistencia total.
+
+![image](https://user-images.githubusercontent.com/93734334/148691894-24773115-d651-42a4-9d6e-be59fb1ee924.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
