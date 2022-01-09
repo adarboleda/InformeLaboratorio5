@@ -94,7 +94,11 @@ Objetivos Específicos:
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
+![image](https://user-images.githubusercontent.com/93734334/148693627-57de7d92-40c7-44b3-97ff-257e85d93637.png)
+
 Tabla 5.2. Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/93734334/148693643-3197e17f-7c40-4c4c-9bf4-e40d25dcb500.png)
 
 5. VIDEO
 
