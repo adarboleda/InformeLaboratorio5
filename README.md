@@ -78,11 +78,19 @@ Objetivos Específicos:
 
 5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
+![image](https://user-images.githubusercontent.com/93734334/148693094-4960c703-42b8-45f1-8ea7-8663cfddcdce.png)
+
 5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/93734334/148693145-180d3597-37dd-44b1-bc02-496b333311aa.png)
 
 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/93734334/148693177-c0cef2ea-eb55-4e64-b32d-d7dbca029d1e.png)
+
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/93734334/148693459-7c49a6c2-043a-4136-b684-754559d86e08.png)
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
