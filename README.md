@@ -98,7 +98,7 @@ Objetivos Específicos:
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/93734334/148693459-7c49a6c2-043a-4136-b684-754559d86e08.png)
+![image](https://user-images.githubusercontent.com/93734334/149236330-1fb54bd2-fe01-45a2-b0d8-60ab782bceb4.png)
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
@@ -106,15 +106,17 @@ Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
 Tabla 5.2. Comprobación del Teorema de Thévenin.
 
-![image](https://user-images.githubusercontent.com/93734334/148693643-3197e17f-7c40-4c4c-9bf4-e40d25dcb500.png)
+![image](https://user-images.githubusercontent.com/93734334/149236386-19a9451b-7b65-4b11-84f5-a5a0d4badccc.png)
 
-* Como se observa, en los valores tanto de la tabla 5.1, como los de la tabla 5.2, los valores calculados y los valores medidos en el simulador no difieren, a excepcion los valores de la tabla 5.2 en el circuito equivalente de Thévenin, donde haciendo el calculo del error se tiene que 
+* Como se observa, en los valores tanto de la tabla 5.1, como los de la tabla 5.2, los valores calculados y los valores medidos en el simulador no difieren, es decir que no existe error.
 
-(3.90-3.89/3.90) x 100
+(3.89-3.89/3.89) x 100
 
-El error es de un 0.0025%
+El error es de un 0%
 
 5. VIDEO
+
+https://youtu.be/gH6GBtD7-Uk
 
 6. CONCLUSIONES
 
