@@ -4,11 +4,17 @@
 
 Objetivo General:
 
+* Comprobar el Teorema de Thévenin mediante e
+
 Objetivos Específicos:
+
+* Explicar en que consiste el Teorema de Thévenin.
+
+* Comprobar los resultados obtenidos 
 
 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/93733175/149199701-83401f84-4654-4765-bdbf-2dd2cc370daa.png)
+![image](https://user-images.githubusercontent.com/93733175/149200541-b5d3f6f6-aed0-4064-a066-719b595b7812.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -92,7 +98,7 @@ Objetivos Específicos:
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/93734334/149217988-8af94f3f-1f14-404f-8660-6bdb763ce586.png)
+![image](https://user-images.githubusercontent.com/93734334/148693459-7c49a6c2-043a-4136-b684-754559d86e08.png)
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
@@ -100,21 +106,21 @@ Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
 Tabla 5.2. Comprobación del Teorema de Thévenin.
 
-![image](https://user-images.githubusercontent.com/93734334/149218463-3b5256a0-f8d8-4bb0-85be-f43f2ec24935.png)
+![image](https://user-images.githubusercontent.com/93734334/148693643-3197e17f-7c40-4c4c-9bf4-e40d25dcb500.png)
 
-* Como se observa, en los valores tanto de la tabla 5.1, como los de la tabla 5.2, los valores calculados y los valores medidos en el simulador no difieren, por lo que no existe error.
+* Como se observa, en los valores tanto de la tabla 5.1, como los de la tabla 5.2, los valores calculados y los valores medidos en el simulador no difieren, a excepcion los valores de la tabla 5.2 en el circuito equivalente de Thévenin, donde haciendo el calculo del error se tiene que 
 
-(3.89-3.89/3.89) x 100
+(3.90-3.89/3.90) x 100
 
-El error es de un 0%
+El error es de un 0.0025%
 
 5. VIDEO
-
-https://youtu.be/gH6GBtD7-Uk
 
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 RUBRICA
 
