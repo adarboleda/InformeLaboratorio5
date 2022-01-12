@@ -92,7 +92,7 @@ Objetivos Específicos:
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/93734334/148693459-7c49a6c2-043a-4136-b684-754559d86e08.png)
+![image](https://user-images.githubusercontent.com/93734334/149217988-8af94f3f-1f14-404f-8660-6bdb763ce586.png)
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
