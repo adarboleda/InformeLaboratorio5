@@ -8,6 +8,8 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/93733175/149199701-83401f84-4654-4765-bdbf-2dd2cc370daa.png)
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93734334/148687457-5296c779-0821-4a1e-807a-084685e3aed6.png)
