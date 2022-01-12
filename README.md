@@ -4,13 +4,13 @@
 
 Objetivo General:
 
-* Comprobar el Teorema de Thévenin mediante e
+* Realizar una simulación y comprobar el Teorema de Thévenin en un circuito resistivo. 
 
 Objetivos Específicos:
 
 * Explicar en que consiste el Teorema de Thévenin.
 
-* Comprobar los resultados obtenidos 
+* Anotar los resultados del VTH Y RTH obtenidos del circuito equivalente de Thévenin.  
 
 2. MARCO TEÓRICO 
 
